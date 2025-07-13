@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudharshan R (SSR)
 
-<!--
-**sudharshansudhir/sudharshansudhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer – MERN Stack
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Frontend:** React.js, TailwindCSS, Bootstrap, Figma, UI/UX
+- **Backend:** Node.js, Express.js, MongoDB
+- **Others:** Python, Java, Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects
+- **ShoeCart**
+- **Mern Todo**
+- **LeaveLetter Generator**
+- **RollUrDice**
+- **Notepad**
+- **Portfolio**
+
+### 🌐 Links
+- [Portfolio](https://sudharshansudhir.github.io/thenameisSSR/)
+- [LinkedIn](https://www.linkedin.com/in/sudharshan-r-ssr)
+
+### 🎬 Fun Fact
+I love Stranger Things!
+
+### 🎨 Preferred Theme
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sudharshan-r-ssr) or explore my [Portfolio](https://sudharshansudhir.github.io/thenameisSSR/) for more!
