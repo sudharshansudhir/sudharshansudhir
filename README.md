@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lovers+Quarrel&size=48&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Developer;UI%2FUX+Designer;Film+Maker✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lovers+Quarrel&size=48&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Film+Maker" />
 </p>
 
 ---
 
 <!-- Hero Image -->
 <div align="center">
-  <img src="https://portfolio-ssr-five.vercel.app/assets/aboutsection-CwkqpXr9.jpg" width="720" style="border-radius: 22px;" />
+  <img src="https://portfolio-ssr-five.vercel.app/assets/aboutsection-CwkqpXr9.jpg" width="480" style="border-radius: 22px;" />
 </div>
 
 ---
@@ -47,7 +47,7 @@
 
 <!-- Project 2 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/upskills.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/upskills.png" width="230" height="150" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>📚 UPSkills LMS</h2>
   <p><strong>MERN Stack</strong> | Online learning platform with courses & dashboards</p>
@@ -60,7 +60,7 @@
 
 <!-- Project 3 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/proj-1.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/proj-1.png" width="230" height="150" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>💼 Portfolio</h2>
   <p><strong>React + Tailwind</strong> | Modern animated portfolio</p>
@@ -73,7 +73,7 @@
 
 <!-- Project 4 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/tomato.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/tomato.png" width="230" height="150" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>🍅 Tomato – Food Delivery App</h2>
   <p><strong>React + Tailwind</strong> | Online food ordering with menu browsing</p>
@@ -86,7 +86,7 @@
 
 <!-- Project 5 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/shoecart.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/shoecart.png" width="230" height="150" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>👟 ShoeCart – Shoe Store</h2>
   <p><strong>React + Tailwind</strong> | E-commerce shoe shopping website</p>
@@ -99,7 +99,7 @@
 
 <!-- Project 6 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/svc.jpg" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/svc.jpg" width="100" height="500" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>🎤 Smart Voice Calculator</h2>
   <p><strong>React Native</strong> | Scientific calculations via voice commands</p>
@@ -114,11 +114,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudharshansudhir&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=sudharshansudhir&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=sudharshansudhir&theme=tokyonight&hide_border=true"/>
+<img height="130" src="https://streak-stats.demolab.com?user=sudharshansudhir&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshansudhir&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshansudhir&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
