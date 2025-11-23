@@ -1,27 +1,132 @@
-# 💫 About Me:
-# 👋 Hi, I'm Sudharshan R (SSR)<br><br>## 🚀 Full Stack Developer – MERN Stack<br><br>### 🛠️ Tech Stack<br>- **Frontend:** HTML,CSS,JS,React.js, TailwindCSS, Bootstrap, Figma, Canva, UI/UX<br>- **Backend:** Node.js, Express.js, MongoDB,MySQL<br>- **Others:** C, Python, Java, Blender<br><br>### 💻 Projects<br>- **UPSkills-LMS**<br>- **Locopilot-alert system**<br>- **Tomato**<br>- **ShoeCart**<br>- **Mern Todo**<br>- **LeaveLetter Generator**<br>- **RollUrDice**<br>- **RockPaperScissors**<br>- **Notepad**<br>- **Portfolio**<br><br>### 🌐 Links<br>- [Portfolio](https://portfolio-ssr-five.vercel.app/)<br>- [LinkedIn](https://www.linkedin.com/in/sudharshan-r-ssr)<br><br>### 🎬 Fun Fact<br>I love Stranger Things!<br><br>### 🎨 Preferred Theme<br><br>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sudharshan-r-ssr) or explore my [Portfolio](https://portfolio-ssr-five.vercel.app/) for more!<br>
+<!-- ========================= -->
+<!-- 🌟 SSR – Premium GitHub Profile -->
+<!-- 3D • Glassmorphism • Modern UI -->
+<!-- ========================= -->
 
+<!-- TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=600&size=28&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Sudharshan+R+%28SSR%29;Full+Stack+Developer;MERN+%2B+Python+Enthusiast;Real-time+Systems+Builder" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sudhir_ssr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudharshan-r-ssr/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhir.ssr7@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sudharshansudhir&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sudharshansudhir&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshansudhir&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- GLASS CARD: ABOUT -->
+<div align="center">
+  <img width="90%" src="https://img.shields.io/badge/-ABOUT%20ME-0d1117?style=for-the-badge&logoColor=white&colorA=0d1117&colorB=1f2937"/>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sudharshansudhir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <div style="
+      width:85%;
+      padding:20px;
+      border-radius:20px;
+      backdrop-filter: blur(12px);
+      background: rgba(255,255,255,0.06);
+      border:1px solid rgba(255,255,255,0.18);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+      margin: auto;">
+    <h3 style="text-align:center;color:#00eaff;">💫 About Me</h3>
+    <p align="center">
+      🚀 Full Stack Developer (MERN) • Python Automation • Real-time Systems<br/>
+      🧠 Built <b>LocoPilot</b> – Railway Safety System (Published IRJMETS)<br/>
+      🎬 Built <b>Flixplore</b> – Netflix-style Movie Recommender (Ask DUDE AI)<br/>
+      🎨 UI/UX enthusiast: Tailwind • Figma • Animations<br/>
+      💼 Passion for scalable systems & clean architecture
+    </p>
+  </div>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sudharshansudhir&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+<!-- GLASS CARD: TECH -->
+<div align="center">
+  <img width="90%" src="https://img.shields.io/badge/-TECH%20STACK-0d1117?style=for-the-badge&logoColor=white&colorA=0d1117&colorB=1f2937"/>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,c,cpp,figma,tailwind,bootstrap,blender,git,github,vscode" />
+</div>
+
+<br/>
+
+<!-- GLASS CARD: PROJECTS -->
+<div align="center">
+  <img width="90%" src="https://img.shields.io/badge/-FEATURED%20PROJECTS-0d1117?style=for-the-badge&logoColor=white&colorA=0d1117&colorB=1f2937"/>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div style="
+          padding:20px;
+          border-radius:20px;
+          background:rgba(255,255,255,0.06);
+          backdrop-filter: blur(10px);
+          border:1px solid rgba(255,255,255,0.2);
+          box-shadow:0 8px 20px rgba(0,0,0,0.25);">
+          <h3 align="center">🚆 LocoPilot</h3>
+          <p align="center">Real-time railway safety dashboard using MERN + Python + Socket.io.<br/>
+          Alerts when trains share same track.<br/>
+          Published in IRJMETS.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <div style="
+          padding:20px;
+          border-radius:20px;
+          background:rgba(255,255,255,0.06);
+          backdrop-filter: blur(10px);
+          border:1px solid rgba(255,255,255,0.2);
+          box-shadow:0 8px 20px rgba(0,0,0,0.25);">
+          <h3 align="center">🎬 Flixplore</h3>
+          <p align="center">Netflix-style platform with AskDUDE — smart movie recommender.<br/>
+          MERN + Tailwind • JWT Auth • UI/UX.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- GLASS CARD: STATS -->
+<div align="center">
+  <img width="90%" src="https://img.shields.io/badge/-GITHUB%20STATS-0d1117?style=for-the-badge&logoColor=white&colorA=0d1117&colorB=1f2937"/>
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudharshansudhir&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshansudhir&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudharshansudhir&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+<br/>
+
+<!-- SOCIAL LINKS -->
+<div align="center">
+  <img width="90%" src="https://img.shields.io/badge/-CONNECT%20WITH%20ME-0d1117?style=for-the-badge&logoColor=white&colorA=0d1117&colorB=1f2937"/>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudharshan-r-ssr">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="https://portfolio-ssr-five.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
+  </a>
+  <a href="mailto:sudhir.ssr7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sudharshansudhir&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sudharshansudhir&icon=0&color=4" />
+</div>
