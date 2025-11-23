@@ -31,7 +31,7 @@
 
 ---
 
-# 🌈 ⭐ **Featured Projects (2×3 RGB Neon Grid)**
+# ⭐ **Featured Projects**
 
 <!-- PROJECT GRID CONTAINER -->
 <table align="center">
@@ -112,7 +112,7 @@
 
 ---
 
-# 🔥 RGB Neon GitHub Stats
+# 🔥 GitHub Stats
 
 <div align="center">
 
@@ -126,7 +126,7 @@
 
 ---
 
-# 🌈 Connect With Me  
+# 👤 Connect With Me  
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sudharshan-r-ssr">
