@@ -34,7 +34,7 @@
 
 <!-- Project 1 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/flixplore.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/flixplore.png" width="430" height="300" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>🎬 Flixplore – Movie Streaming Website</h2>
   <p><strong>MERN + JWT</strong> | Netflix-style streaming with “Ask Dude” bot</p>
@@ -47,7 +47,7 @@
 
 <!-- Project 2 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/upskills.png" width="230" height="150" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/upskills.png" width="430" height="300" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>📚 UPSkills LMS</h2>
   <p><strong>MERN Stack</strong> | Online learning platform with courses & dashboards</p>
@@ -60,7 +60,7 @@
 
 <!-- Project 3 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/proj-1.png" width="230" height="150" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/proj-1.png" width="430" height="300" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>💼 Portfolio</h2>
   <p><strong>React + Tailwind</strong> | Modern animated portfolio</p>
@@ -73,7 +73,7 @@
 
 <!-- Project 4 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/tomato.png" width="230" height="150" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/tomato.png" width="430" height="300" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>🍅 Tomato – Food Delivery App</h2>
   <p><strong>React + Tailwind</strong> | Online food ordering with menu browsing</p>
@@ -86,7 +86,7 @@
 
 <!-- Project 5 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/shoecart.png" width="230" height="150" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/shoecart.png" width="430" height="300" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>👟 ShoeCart – Shoe Store</h2>
   <p><strong>React + Tailwind</strong> | E-commerce shoe shopping website</p>
@@ -99,7 +99,7 @@
 
 <!-- Project 6 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/svc.jpg" width="100" height="500" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/svc.jpg" width="300" height="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>🎤 Smart Voice Calculator</h2>
   <p><strong>React Native</strong> | Scientific calculations via voice commands</p>
