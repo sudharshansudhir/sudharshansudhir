@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lovers+Quarrel&size=48&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Developer;UI%2FUX+Designer;Creative+Tech+Builder+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lovers+Quarrel&size=48&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Developer;UI%2FUX+Designer;Film+Maker✨" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-# ⭐ Featured Projects (Glassmorphism Style)
+# ⭐ Featured Projects 
 
 <!-- Project 1 -->
 <div align="center">
@@ -73,7 +73,7 @@
 
 <!-- Project 4 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Tomato-MERN-Stack-project/blob/main/src/assets/tomato.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/tomato.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>🍅 Tomato – Food Delivery App</h2>
   <p><strong>React + Tailwind</strong> | Online food ordering with menu browsing</p>
@@ -86,7 +86,7 @@
 
 <!-- Project 5 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/ShoeCart-frontend/blob/main/src/assets/shoecart.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/shoecart.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>👟 ShoeCart – Shoe Store</h2>
   <p><strong>React + Tailwind</strong> | E-commerce shoe shopping website</p>
@@ -99,7 +99,7 @@
 
 <!-- Project 6 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/SmartVoiceCalculator-app/blob/main/assets/calculator.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/svc.jpg" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>🎤 Smart Voice Calculator</h2>
   <p><strong>React Native</strong> | Scientific calculations via voice commands</p>
@@ -111,8 +111,6 @@
 ---
 
 # 📊 GitHub Stats  
-> Your username is: **`sudharshansudhir`**  
-> Using **new v3 stats API that actually works** 🎯
 
 <div align="center">
 
