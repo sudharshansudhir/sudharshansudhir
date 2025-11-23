@@ -1,132 +1,82 @@
-<!-- ========================= -->
-<!-- 🌟 SSR – Premium GitHub Profile -->
-<!-- 3D • Glassmorphism • Modern UI -->
-<!-- ========================= -->
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://i.imgur.com/9y3GxjY.png" width="900" alt="SSR Banner"/>
+</p>
 
-<!-- TITLE -->
+<h1 align="center">🚀 Hey, I'm <strong>Sudharshan R (SSR)</strong></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;UI%2FUX+Designer;Tech+Explorer+%F0%9F%9A%80" />
+</p>
+
+---
+
+## 🧊 Glassmorphism Profile Card  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=600&size=28&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Sudharshan+R+%28SSR%29;Full+Stack+Developer;MERN+%2B+Python+Enthusiast;Real-time+Systems+Builder" />
+  <img src="https://i.imgur.com/E7IrczK.png" width="700" style="border-radius:20px; backdrop-filter: blur(15px);" />
 </div>
 
-<br/>
+---
 
-<!-- GLASS CARD: ABOUT -->
+## 🛠️ Tech Stack  
 <div align="center">
-  <img width="90%" src="https://img.shields.io/badge/-ABOUT%20ME-0d1117?style=for-the-badge&logoColor=white&colorA=0d1117&colorB=1f2937"/>
+  
+| Frontend | Backend | Others |
+|---------|---------|--------|
+| <img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"> | <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"> | <img height="40" src="https://skillicons.dev/icons?i=python,java,c,figma,blender"> |
+
 </div>
 
+---
+
+## 🧩 3D Project Cards
 <div align="center">
-  <div style="
-      width:85%;
-      padding:20px;
-      border-radius:20px;
-      backdrop-filter: blur(12px);
-      background: rgba(255,255,255,0.06);
-      border:1px solid rgba(255,255,255,0.18);
-      box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-      margin: auto;">
-    <h3 style="text-align:center;color:#00eaff;">💫 About Me</h3>
-    <p align="center">
-      🚀 Full Stack Developer (MERN) • Python Automation • Real-time Systems<br/>
-      🧠 Built <b>LocoPilot</b> – Railway Safety System (Published IRJMETS)<br/>
-      🎬 Built <b>Flixplore</b> – Netflix-style Movie Recommender (Ask DUDE AI)<br/>
-      🎨 UI/UX enthusiast: Tailwind • Figma • Animations<br/>
-      💼 Passion for scalable systems & clean architecture
-    </p>
-  </div>
+
+<img src="https://i.imgur.com/Hz6vZxW.png" width="300" style="margin:10px;border-radius:20px;" />
+<img src="https://i.imgur.com/QHB4Ycf.png" width="300" style="margin:10px;border-radius:20px;" />
+
 </div>
 
-<br/>
+---
 
-<!-- GLASS CARD: TECH -->
+## 🚀 Featured Projects  
+### 🔥 **LOCO-PILOT ALERT SYSTEM (Python + MERN)**  
+**Real-time accident-prevention dashboard** using rule-based algorithms + socket.io.
+
+### 🎬 **Flixplore – Movie Streaming Website (MERN + JWT)**  
+Netflix-style interface with AI-like recommendations through “Ask Dude”.
+
+---
+
+## 📊 GitHub Stats (Animated)
 <div align="center">
-  <img width="90%" src="https://img.shields.io/badge/-TECH%20STACK-0d1117?style=for-the-badge&logoColor=white&colorA=0d1117&colorB=1f2937"/>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=SudharshanSSR&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SudharshanSSR&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,c,cpp,figma,tailwind,bootstrap,blender,git,github,vscode" />
-</div>
+---
 
-<br/>
-
-<!-- GLASS CARD: PROJECTS -->
-<div align="center">
-  <img width="90%" src="https://img.shields.io/badge/-FEATURED%20PROJECTS-0d1117?style=for-the-badge&logoColor=white&colorA=0d1117&colorB=1f2937"/>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div style="
-          padding:20px;
-          border-radius:20px;
-          background:rgba(255,255,255,0.06);
-          backdrop-filter: blur(10px);
-          border:1px solid rgba(255,255,255,0.2);
-          box-shadow:0 8px 20px rgba(0,0,0,0.25);">
-          <h3 align="center">🚆 LocoPilot</h3>
-          <p align="center">Real-time railway safety dashboard using MERN + Python + Socket.io.<br/>
-          Alerts when trains share same track.<br/>
-          Published in IRJMETS.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <div style="
-          padding:20px;
-          border-radius:20px;
-          background:rgba(255,255,255,0.06);
-          backdrop-filter: blur(10px);
-          border:1px solid rgba(255,255,255,0.2);
-          box-shadow:0 8px 20px rgba(0,0,0,0.25);">
-          <h3 align="center">🎬 Flixplore</h3>
-          <p align="center">Netflix-style platform with AskDUDE — smart movie recommender.<br/>
-          MERN + Tailwind • JWT Auth • UI/UX.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- GLASS CARD: STATS -->
-<div align="center">
-  <img width="90%" src="https://img.shields.io/badge/-GITHUB%20STATS-0d1117?style=for-the-badge&logoColor=white&colorA=0d1117&colorB=1f2937"/>
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudharshansudhir&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshansudhir&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudharshansudhir&theme=react-dark&hide_border=true&area=true" />
-</div>
-
-<br/>
-
-<!-- SOCIAL LINKS -->
-<div align="center">
-  <img width="90%" src="https://img.shields.io/badge/-CONNECT%20WITH%20ME-0d1117?style=for-the-badge&logoColor=white&colorA=0d1117&colorB=1f2937"/>
-</div>
-
+## 🌍 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/sudharshan-r-ssr">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
-  <a href="https://portfolio-ssr-five.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
+  &nbsp;&nbsp;
+  <a href="mailto:sudharshanr.business@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"/>
   </a>
-  <a href="mailto:sudhir.ssr7@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/your_instagram_here">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sudharshansudhir&icon=0&color=4" />
-</div>
+## 🎨 Aesthetic Footer  
+<p align="center">
+  <img src="https://i.imgur.com/FCfR1R5.png" width="600" />
+</p>
+
