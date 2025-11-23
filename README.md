@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lovers+Quarrel&size=48&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Film+Maker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lovers+Quarrel&size=48&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mern+Stack+Developer;Ui%2FUx+Designer;Film+Maker" />
 </p>
 
 ---
