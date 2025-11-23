@@ -1,6 +1,6 @@
 <!-- RGB NEON HEADER -->
 <h1 align="center" style="font-family:'Lovers Quarrel'; font-size:64px; font-weight:400; color:#ff77ff; text-shadow:0 0 15px #ff33ff, 0 0 25px #ff0099;">
-  𝓗𝓮𝔂, 𝓘'𝓶 𝓢𝓾𝓭𝓱𝓪𝓻𝓼𝓱𝓪𝓷 𝓡 (𝓢𝓢𝓡)
+  ʜᴇʏ,ɪ ᴀᴍ ꜱᴜᴅʜᴀʀꜱʜᴀɴ ʀ (ꜱꜱʀ)
 </h1>
 
 <p align="center">
