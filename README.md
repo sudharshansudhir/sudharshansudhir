@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.imgur.com/9y3GxjY.png" width="900" alt="SSR Banner"/>
+  <img src="[https://i.imgur.com/9y3GxjY.png](https://portfolio-ssr-five.vercel.app/assets/others-t5ew40yo.jpg)" width="900" alt="SSR Banner"/>
 </p>
 
 <h1 align="center">🚀 Hey, I'm <strong>Sudharshan R (SSR)</strong></h1>
