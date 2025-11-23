@@ -60,13 +60,52 @@
 
 <!-- Project 3 -->
 <div align="center">
-  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/portfolio.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/proj-1.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
   
   <h2>💼 Portfolio</h2>
   <p><strong>React + Tailwind</strong> | Modern animated portfolio</p>
 
   🔗 <a href="https://portfolio-ssr-five.vercel.app/">Live Demo</a> •  
   <a href="https://github.com/sudharshansudhir/Portfolio-SSR">Source Code</a>
+</div>
+
+---
+
+<!-- Project 4 -->
+<div align="center">
+  <img src="https://github.com/sudharshansudhir/Tomato-MERN-Stack-project/blob/main/src/assets/tomato.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  
+  <h2>🍅 Tomato – Food Delivery App</h2>
+  <p><strong>React + Tailwind</strong> | Online food ordering with menu browsing</p>
+
+  🔗 <a href="https://tomato-mern-stack-project.vercel.app/">Live Demo</a> •  
+  <a href="https://github.com/sudharshansudhir/Tomato-MERN-Stack-project">Source Code</a>
+</div>
+
+---
+
+<!-- Project 5 -->
+<div align="center">
+  <img src="https://github.com/sudharshansudhir/ShoeCart-frontend/blob/main/src/assets/shoecart.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  
+  <h2>👟 ShoeCart – Shoe Store</h2>
+  <p><strong>React + Tailwind</strong> | E-commerce shoe shopping website</p>
+
+  🔗 <a href="https://shoe-cart-frontend-one.vercel.app/">Live Demo</a> •  
+  <a href="https://github.com/sudharshansudhir/ShoeCart-frontend">Source Code</a>
+</div>
+
+---
+
+<!-- Project 6 -->
+<div align="center">
+  <img src="https://github.com/sudharshansudhir/SmartVoiceCalculator-app/blob/main/assets/calculator.png" width="430" style="border-radius:20px; box-shadow: 0 0 30px rgba(0,255,255,0.25);" />
+  
+  <h2>🎤 Smart Voice Calculator</h2>
+  <p><strong>React Native</strong> | Scientific calculations via voice commands</p>
+
+  🔗 *Mobile App (APK coming soon)* •  
+  <a href="https://github.com/sudharshansudhir/SmartVoiceCalculator-app">Source Code</a>
 </div>
 
 ---
