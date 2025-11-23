@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="[https://i.imgur.com/9y3GxjY.png](https://portfolio-ssr-five.vercel.app/assets/others-t5ew40yo.jpg)" width="900" alt="SSR Banner"/>
+  <img src="https://portfolio-ssr-five.vercel.app/assets/others-t5ew40yo.jpg" width="900" alt="SSR Banner"/>
 </p>
 
 <h1 align="center">🚀 Hey, I'm <strong>Sudharshan R (SSR)</strong></h1>
@@ -11,9 +11,9 @@
 
 ---
 
-## 🧊 Glassmorphism Profile Card  
+## 🧊 SSR 
 <div align="center">
-  <img src="https://i.imgur.com/E7IrczK.png" width="700" style="border-radius:20px; backdrop-filter: blur(15px);" />
+  <img src="https://portfolio-ssr-five.vercel.app/assets/aboutsection-CwkqpXr9.jpg" width="700" style="border-radius:20px; backdrop-filter: blur(15px);" />
 </div>
 
 ---
