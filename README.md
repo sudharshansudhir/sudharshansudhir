@@ -112,18 +112,6 @@
 
 ---
 
-# 🔥 GitHub Stats
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=sudharshansudhir&show_icons=true&theme=tokyonight&hide_border=true" style="filter: drop-shadow(0 0 10px #00eaff);" />
-
-<img height="150" src="https://streak-stats.demolab.com?user=sudharshansudhir&theme=tokyonight&hide_border=true" style="filter: drop-shadow(0 0 10px #ff33ff);" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshansudhir&layout=compact&theme=tokyonight&hide_border=true" style="filter: drop-shadow(0 0 10px #33ffaa);" />
-
-</div>
-
 ---
 
 # 👤 Connect With Me  
