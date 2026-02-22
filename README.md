@@ -11,7 +11,7 @@
 
 <!-- Neon Hero Image -->
 <div align="center">
-  <img src="https://portfolio-ssr-five.vercel.app/assets/aboutsection-CwkqpXr9.jpg" width="480" style="border-radius:22px; box-shadow:0 0 25px rgba(0,255,255,0.6), 0 0 45px rgba(255,0,255,0.4);" />
+  <img src="https://avatars.githubusercontent.com/u/173806090?v=4" width="480" style="border-radius:22px; box-shadow:0 0 25px rgba(0,255,255,0.6), 0 0 45px rgba(255,0,255,0.4);" />
 </div>
 
 ---
