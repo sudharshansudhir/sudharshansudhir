@@ -58,6 +58,7 @@
     🔗 <a href="#">Restricted</a> • 
     <a href="#">Restricted</a>
   </td>
+  </tr><tr>
 
   <td align="center" width="50%">
     <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/upskills.png"
@@ -83,17 +84,16 @@
   
 
   </tr><tr>
-
-  <!-- Project 3 -->
   <td align="center" width="50%">
-    <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/proj-1.png"
-      width="340" height="240"
-      style="border-radius:18px; box-shadow:0 0 18px #00ccff, 0 0 38px #ff0099;" />
-    <h3 style="color:#00ddff;">💼 Portfolio</h3>
-    <p><strong>React + Tailwind</strong> | Animated modern portfolio</p>
-    🔗 <a href="https://portfolio-ssr-five.vercel.app/">Live</a> • 
-    <a href="https://github.com/sudharshansudhir/Portfolio-SSR">Code</a>
+    <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/linkopilot.png"
+      width="240" height="480"
+      style="border-radius:18px; box-shadow:0 0 18px #00ffaa, 0 0 38px #00ffcc;" />
+    <h3 style="color:#33ffcc;">🔗 LinkOPilot</h3>
+    <p><strong>MERN +JWT</strong> | A Smart URL Management System</p>
+    🔗 <a href="https://linkopilot.vercel.app/">Live</a> • 
+    <a href="https://github.com/sudharshansudhir/linkopilot">Code</a>
   </td>
+  <!-- Project 3 -->
 
   <!-- Project 4 -->
 
@@ -108,6 +108,17 @@
   </td>
   </tr><tr>
 
+  <td align="center" width="50%">
+    <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/proj-1.png"
+      width="340" height="240"
+      style="border-radius:18px; box-shadow:0 0 18px #00ccff, 0 0 38px #ff0099;" />
+    <h3 style="color:#00ddff;">💼 Portfolio</h3>
+    <p><strong>React + Tailwind</strong> | Animated modern portfolio</p>
+    🔗 <a href="https://portfolio-ssr-five.vercel.app/">Live</a> • 
+    <a href="https://github.com/sudharshansudhir/Portfolio-SSR">Code</a>
+  </td>
+
+
 
   <td align="center" width="50%">
     <img src="https://github.com/sudharshansudhir/Portfolio-SSR/blob/main/src/assets/imagess/svc.jpg"
@@ -118,6 +129,10 @@
     🔗 APK Coming Soon • 
     <a href="https://github.com/sudharshansudhir/SmartVoiceCalculator-app">Code</a>
   </td>
+  
+
+
+
 
   </tr>
 </table>
