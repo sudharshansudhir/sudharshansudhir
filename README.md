@@ -44,7 +44,7 @@
       width="340" height="240"
       style="border-radius:18px; box-shadow:0 0 18px #00ffff, 0 0 38px #ff00ff;" />
     <h3 style="color:#00eaff;">🛒 Geocart</h3>
-    <p><strong>MERN + JWT</strong> | An AI integrates Grocery Management system(By in Minutes)</p>
+    <p><strong>MERN + JWT</strong> | An AI integrates Grocery Management system(Buy in Minutes)</p>
     🔗 <a href="https://geo-cart.vercel.app/">Live</a> • 
     <a href="https://github.com/sudharshansudhir/GeoCart">Code</a>
   </td>
@@ -54,7 +54,7 @@
       width="340" height="240"
       style="border-radius:18px; box-shadow:0 0 18px #00ffff, 0 0 38px #ff00ff;" />
     <h3 style="color:#00eaff;">🚉 Tower Can Management System</h3>
-    <p><strong>MERN + JWT</strong> | A project developed for Indian Railways(Government Project</p>
+    <p><strong>MERN + JWT</strong> | A project developed for Indian Railways(Government Project)</p>
     🔗 <a href="#">Restricted</a> • 
     <a href="#">Restricted</a>
   </td>
